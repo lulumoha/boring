@@ -1,0 +1,19 @@
+body{
+  background-color: grey;
+  font-family: sans-serif;
+}
+h2.intro{
+  width: 100%;
+  color: red;
+}
+
+p.intro{
+  font-style: italic;
+  width: 50%;
+  font-size: 24;
+  font-weight: bold;
+}
+
+img.intro{
+float: right;
+}
